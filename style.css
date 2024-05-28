@@ -1,0 +1,21 @@
+body {
+    background-color: #ede4cd;
+}
+
+#container {
+    width: 360px;
+    height: 480px;
+    background-color: #f8f4e6;
+}
+
+#canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+#start, #stop {
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 120px;
+    height: 50px;
+}
